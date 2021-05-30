@@ -1,0 +1,11 @@
+<suite name="Testing Project Suite" parallel="methods" thread-count="1" verbose="1" preserve-order="true">
+	<test name="Assignement7">
+		<classes>
+			<class name="com.envision.test.tests.a7test">
+				<methods>
+					<include name="doTest1" />
+				</methods>
+			</class>
+		</classes>
+	</test>
+</suite>
